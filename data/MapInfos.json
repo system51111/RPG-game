@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":815,"scrollY":448},
+{"id":2,"expanded":true,"name":"渔村","order":2,"parentId":1,"scrollX":1097,"scrollY":503},
+{"id":3,"expanded":false,"name":"魔王城 1F","order":3,"parentId":0,"scrollX":1490,"scrollY":1007},
+{"id":4,"expanded":false,"name":"魔王城 2F","order":4,"parentId":0,"scrollX":1159,"scrollY":1674},
+{"id":5,"expanded":false,"name":"魔王城 3F","order":5,"parentId":0,"scrollX":1065,"scrollY":767}
+]
